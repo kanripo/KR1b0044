@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪範明義
-#+DATE: 2015-09-23 09:36:14
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:03:24.081276
+#+PROPERTY: ID KR1b0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下之上
 <pb:KR1b0044_WYG_003-1a>¶
 欽定四庫全書¶
 　洪範明義卷下之上¶
@@ -758,6 +760,7 @@
 　¶
 　¶
 　洪範明義卷下之上¶
+#+PROPERTY: JUAN 卷下之中
 <pb:KR1b0044_WYG_003-43a>¶
 欽定四庫全書¶
 　洪範明義卷下之中¶
@@ -1744,6 +1747,7 @@
 　¶
 　¶
 　洪範明義卷下之中¶
+#+PROPERTY: JUAN 卷下之下
 <pb:KR1b0044_WYG_003-98a>¶
 欽定四庫全書¶
 　洪範明義卷下之下¶
@@ -2122,6 +2126,7 @@
 　¶
 　¶
 　洪範明義卷下之下¶
+#+PROPERTY: JUAN 卷下之終
 <pb:KR1b0044_WYG_003-119a>¶
 欽定四庫全書¶
 　洪範明義卷下之終¶
@@ -2369,4 +2374,3 @@
 　¶
 　¶
 　洪範明義卷下之終¶
-
